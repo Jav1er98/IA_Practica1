@@ -16,7 +16,7 @@ Si observamos con atención el ajuste de cada agente, se presentarán los siguie
  -  El azul es demasiado alto por lo cual no podrá seguir al jugador.
       ![Paso 5](gifs/gif1.gif)
       
- -  El rojo es demasiado ancho, tendrá que coger otro camino que habilitamos, mientras que el verde puede seguir al jugador por donde quiera.
+ -  El rojo es demasiado ancho, tendrá que coger otro camino que habilitamos en otro lado del mapa, mientras que el verde puede seguir al jugador por donde quiera.
       ![Paso 6](gifs/gif2.gif)
       
       ![Paso 7](gifs/gif3.gif)
